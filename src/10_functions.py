@@ -9,6 +9,8 @@ def is_even(num):
     else:
         return False
 
+# return num % 2 == 0
+
 
 # Read a number from the keyboard
 num = input("Enter a number: ")
